@@ -1,4 +1,4 @@
-Final individual project Codaissuer
+Final individual project Codaisseur
 
 Assignment: Build a ticketswap like fullstuck web application.
 
